@@ -1,0 +1,10 @@
+{
+    "FOVAmount": 290,
+    "HeadOffset": -0.00,
+    "HumanoidOffset": -0.00,
+    "UpperTorsoOffset": -0.00,
+    "PredictionAmount": 0.000,
+    "Bone": "HumanoidRootPart",
+    "Key": "RButton",
+    "SmoothnessFactor": 0.00
+}
